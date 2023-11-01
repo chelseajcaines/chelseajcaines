@@ -2,6 +2,7 @@
 <br/>
 <h2 align="center">Hi there 👋, I'm Chelsea Caines</h2>
 <h4 align="center">A passionate and growing Full Stack Developer from Northern Newfoundland, Canada</h4>
+<br/>
 
 ### About Me
 
