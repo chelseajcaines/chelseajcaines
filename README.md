@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/chelsea-caines/"></a>
+<a href="https://www.linkedin.com/in/chelsea-caines/">LinkedIn - Chelsea Caines</a>
 
 ### Languages and Tools:
 
